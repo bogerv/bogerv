@@ -1,4 +1,4 @@
-### Hey 👋, I'm bogerv
+### Hey there 👋
 
 <!--
 **bogerv/bogerv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogerv&hide=html)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bogerv&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=bogerv&show_icons=true&count_private=true&hide_title=true&line_height=28)
 -->
 
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=bogerv&show_icons=true&count_private=true&line_height=36)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bogerv&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&&theme=radical" />
+- 🌱 I'm currently using golang.
